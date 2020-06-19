@@ -1,0 +1,19 @@
+{
+  "name": "binance-lib",
+  "version": "1.0.0",
+  "description": "binance-lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuthreecar/binance-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuthreecar/binance-lib/issues"
+  },
+  "homepage": "https://github.com/kuthreecar/binance-lib#readme"
+}
